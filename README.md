@@ -1,6 +1,6 @@
 # Student Management System
 
-This is a Python project created by Kartavy.
+This is a Python project created by Mahi Sutariya.
 
 ## Features
 - Add student
@@ -11,6 +11,6 @@ This is a Python project created by Kartavy.
 Python
 
 ## Author
-Kartavy Sutariya
+Mahi Sutariya
 BCA.AI Student# student-management-system
 Python project for managing student records
